@@ -12,7 +12,7 @@
     "@types/react-dom": "^16.9.7",
     "bootstrap": "^4.4.1",
     "bootstrap-4-react": "0.0.59",
-    "jquery": "^1.9.1",
+    "jquery": "^3.5.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
