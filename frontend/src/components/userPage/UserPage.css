@@ -1,12 +1,12 @@
 .App {
   text-align: center;
-  background-image: url(../pictures/memories.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .App-header {
+  text-align: center;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -16,7 +16,7 @@
   color: white;
 }
 
-.mr-2, .input{
+.mr2, .input{
   margin-top: 25px;
   width: 25%;
 }
@@ -25,3 +25,33 @@
   width: 50%;
   height: 50%;
 }
+
+.logout{
+  position: fixed;
+  top: 15px;
+  right: 1em;
+  float: right;
+  width: 5em;
+}
+
+.upload {
+  width: 100%;
+}
+
+.searchDiv {
+  width: 100%;
+  margin-bottom: 1%;
+  justify-items: left;
+  align-items: flex-start;
+}
+
+.search {
+  width: 35%;
+  margin-right: 10px;
+  height: 2%;
+}
+
+.searchButton {
+  height: 3%;
+}
+

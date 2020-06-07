@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-image: url('../../pictures/memories.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.mr2, .input{
+  margin-top: 25px;
+  width: 25%;
+}
+
